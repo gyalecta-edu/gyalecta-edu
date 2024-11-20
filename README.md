@@ -10,7 +10,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computer Science](https://www.di.unisa.it/) at [University of Salerno](https://web.unisa.it/en/university)).
+- :school: I am a `Freshman` at [Faculty of Computer Science](https://www.di.unisa.it/) at [University of Salerno](https://web.unisa.it/en/university).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `LeetCode`, `Codeforces`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
