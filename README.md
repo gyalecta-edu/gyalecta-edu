@@ -10,10 +10,10 @@
 
 <br><br>
 
-- :school: I am a `Freshman` at [Faculty of Computer Science](https://www.di.unisa.it/) at [University of Salerno](https://web.unisa.it/en/university).
+- :school: I am a `BSc Student` at [Faculty of Computer Science](https://www.di.unisa.it/) at [University of Salerno](https://web.unisa.it/en/university).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `LeetCode`, `Codeforces`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Computer Science` and `Cyber Security`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/13ZyKFgVw_0hvBuQJr6ylyRSBqioLJ8X0/view?usp=drive_link).
 <br>
